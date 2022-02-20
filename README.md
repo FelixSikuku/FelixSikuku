@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FelixSikuku
+- 👀 I’m interested in Data analysis usig R package
+- 🌱 I’m currently learning at Masinde Muliro University of Science and Technolog 
+- 📫 How to reach me at fellokuku@gmail.com
